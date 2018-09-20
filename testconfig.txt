@@ -1,0 +1,6 @@
+enable 
+configure terminal
+hostname R1
+enable secret cisco
+exit
+wr
